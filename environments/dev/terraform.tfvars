@@ -1,1 +1,1 @@
-project=""
+project="test-terraform-dworx"
